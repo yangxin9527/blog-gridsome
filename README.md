@@ -1,14 +1,10 @@
 # Default starter for Gridsome
 
-This is the project you get when you run `gridsome create new-project`.
+选题二：
 
-### 1. Install Gridsome CLI tool if you don't have
+- 项目地址 https://gridsome-forestry.netlify.app/
 
-`npm install --global @gridsome/cli`
+https://www.ucloud.cn/site/active/lagou.html
 
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+### strapi 文档
+https://strapi.io/documentation/developer-docs/latest/developer-resources/content-api/content-api.html#filters
